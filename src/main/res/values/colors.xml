@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="clr_txt_even">#fff</color>
+    <color name="clr_bg_even">#777da7</color>
+
+    <color name="clr_txt_odd">#fff</color>
+    <color name="clr_bg_odd">#94c9a9</color>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GeekQuote</string>
+    <string-array name="quotList">
+        <item>"Le temps c'est de l'argent"</item>
+        <item>"Une de perdue dix de retrouvees"</item>
+        <item>"Pas d'alcool fort, que des hommes faibles"</item>
+    </string-array>
+    <string name="btn_add">add</string>
+</resources>
